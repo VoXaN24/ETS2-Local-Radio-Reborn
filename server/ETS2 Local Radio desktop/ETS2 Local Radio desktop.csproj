@@ -163,7 +163,6 @@
     <None Include="Resources\0.png" />
     <None Include="Resources\overlay.png" />
     <None Include="Resources\icon.png" />
-    <None Include="Resources\Koenvh fat text smaller.png" />
     <None Include="Resources\dashboard.jpg" />
   </ItemGroup>
   <ItemGroup>

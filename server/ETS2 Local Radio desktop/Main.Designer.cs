@@ -76,7 +76,6 @@
             this.removePluginButton = new System.Windows.Forms.LinkLabel();
             this.installEts2Button = new System.Windows.Forms.Button();
             this.installAtsButton = new System.Windows.Forms.Button();
-            this.Koenvh = new System.Windows.Forms.PictureBox();
             this.groupController = new System.Windows.Forms.GroupBox();
             this.comboController = new System.Windows.Forms.ComboBox();
             this.groupSettings.SuspendLayout();
@@ -84,7 +83,6 @@
             this.groupInfo.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.groupInstall.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).BeginInit();
             this.groupController.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -622,19 +620,6 @@
             this.installAtsButton.UseVisualStyleBackColor = true;
             this.installAtsButton.Click += new System.EventHandler(this.installAtsButton_Click);
             // 
-            // Koenvh
-            // 
-            this.Koenvh.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
-            this.Koenvh.Location = new System.Drawing.Point(140, 589);
-            this.Koenvh.Name = "Koenvh";
-            this.Koenvh.Size = new System.Drawing.Size(156, 50);
-            this.Koenvh.TabIndex = 6;
-            this.Koenvh.TabStop = false;
-            this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
-            // 
             // groupController
             // 
             this.groupController.Controls.Add(this.comboController);
@@ -664,14 +649,13 @@
             this.Controls.Add(this.groupController);
             this.Controls.Add(this.groupInstall);
             this.Controls.Add(this.comboLang);
-            this.Controls.Add(this.Koenvh);
             this.Controls.Add(this.groupInfo);
             this.Controls.Add(this.groupSettings);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Main";
-            this.Text = "ETS2/ATS Local Radio server";
+            this.Text = "ETS2/ATS Local Radio Reborn";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
             this.Load += new System.EventHandler(this.Main_Load);
             this.groupSettings.ResumeLayout(false);
@@ -681,7 +665,6 @@
             this.tableLayoutPanel1.ResumeLayout(false);
             this.groupInstall.ResumeLayout(false);
             this.groupInstall.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).EndInit();
             this.groupController.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -707,7 +690,6 @@
         private System.Windows.Forms.Label statusLabel;
         private System.Windows.Forms.Label statusInfo;
         private System.Windows.Forms.Label coordinatesInfo;
-        private System.Windows.Forms.PictureBox Koenvh;
         private System.Windows.Forms.Label URLInfo;
         private System.Windows.Forms.ComboBox comboIP;
         private System.Windows.Forms.ComboBox comboLang;
