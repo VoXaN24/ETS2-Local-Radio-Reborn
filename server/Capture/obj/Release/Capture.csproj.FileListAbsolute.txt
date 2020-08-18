@@ -15,3 +15,21 @@ F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\C
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.dll
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.pdb
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\Capture.dll.config
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\EasyHook32.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\EasyHook32Svc.exe
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\EasyHook64.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\EasyHook64Svc.exe
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\EasyLoad32.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\EasyLoad64.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\sharpdx_direct3d11_1_effects_x64.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\sharpdx_direct3d11_1_effects_x86.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\Capture.dll.config
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\Capture.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\bin\Capture.pdb
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.csprojAssemblyReference.cache
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.Properties.Resources.resources
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.csproj.GenerateResource.cache
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.csproj.CopyComplete
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.dll
+C:\Users\valen\Documents\GitHub\ETS2-Local-Radio-Reborn\server\Capture\obj\Release\Capture.pdb
