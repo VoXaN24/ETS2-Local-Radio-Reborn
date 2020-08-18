@@ -29,9 +29,14 @@ var stations = {
             url: "http://149.202.220.47:8888/radiotirana3"
         },
         {
-            name: "Alfa dhe Omega Radio"",
+            name: "Alfa dhe Omega Radio",
             logo: "stations/images-europe/albania/c175.png",
             url: "http://cp11.shoutcheap.com:8037/;"
+        },
+        {
+            name: "Alpo Radio",
+            logo: "stations/images-europe/albania/11607.v7.png",
+            url: "http://62.210.24.124:8379/;stream.mp3"
         },
         {
             name: "Top Albania Radio",
