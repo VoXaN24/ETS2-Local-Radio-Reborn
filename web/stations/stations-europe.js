@@ -49,6 +49,11 @@ var stations = {
             url: "http://46.252.33.58:9310/;stream.mp3?_=1"
         },
         {
+            name: "NRG (Energy)",
+            logo: "stations/images-europe/albania/ENERGY-logo-web.png",
+            url: "https://ice31.securenetsystems.net/AL09"
+        },
+        {
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
             url: "http://93.190.141.15:8452/;"
