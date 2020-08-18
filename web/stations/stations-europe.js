@@ -39,6 +39,16 @@ var stations = {
             url: "http://62.210.24.124:8379/;stream.mp3"
         },
         {
+            name: "Alsion Radio",
+            logo: "stations/images-europe/albania/72441.v5.png",
+            url: "http://109.169.26.216:8018/;"
+        },
+        {
+            name: "BigFM",
+            logo: "stations/images-europe/albania/bigfm.png",
+            url: "http://46.252.33.58:9310/;stream.mp3?_=1"
+        },
+        {
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
             url: "http://93.190.141.15:8452/;"
